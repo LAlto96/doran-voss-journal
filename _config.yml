@@ -1,5 +1,15 @@
+# SEO Values
 title: "Journal de bord de Doran Voss"
 description: "Carnet de bord d’un contrebandier en fuite"
-theme: dracula/gh-pages
+logo: https://draculatheme.com/static/icons/pack-1/045-dracula.svg
+
+
 show_downloads: false
 show_header: false
+remote_theme: "dracula/gh-pages"
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-seo-tag
