@@ -1,124 +1,27 @@
+# Journal de bord de Doran Voss
+
+## Entrée #1 : Évasion de Kessel
+
+**Date :** 825-02-08, 08:00 *(10 ans après la Bataille de Yavin)*
+
+Après des années passées à extraire des minerais dans les mines de Kessel, j'ai enfin réussi à m'échapper avec mon vaisseau de classe Scarab, fruit de mes économies et de nombreux sacrifices.
+
+Avec seulement 20 000 crédits en poche, mon objectif immédiat est de générer des revenus.
+
+Lors de mon évasion, j'ai mis la main sur les plans d'une centrale solaire photovoltaïque. Malheureusement, cette acquisition m'a rendu persona non grata auprès des Hutts, et je suis désormais recherché dans tous leurs systèmes.
+
+Mon but est d'économiser environ 2 à 3 millions de crédits pour construire cette station, que j'envisage d'implanter dans le système de Manda, juste au-dessus de Kamino. Pour atteindre cet objectif, je commence par accepter des missions d'escorte de vaisseaux dans les systèmes voisins. Chaque crédit gagné me rapproche un peu plus de mon rêve.
+
 ---
-layout: default
----
 
-### Preview Page Types
-[Listing Pages](samples/listings-page)
+## Entrée #2 : Rencontre à Manda
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Date :** 825-02-08, 13:00
 
-There should be whitespace between paragraphs.
+Je suis enfin arrivé dans le système de Manda. Alors que j'organisais une escorte de cargo pour gagner quelques crédits supplémentaires, j'ai rencontré une pilote du nom de Janne Kellar.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Janne est douée, expérimentée et cherchait justement un emploi stable après avoir passé des années à naviguer seule dans la Bordure Extérieure. Voyant là une opportunité unique, je lui ai proposé de rejoindre mon équipage.
 
-# [](#header-1)Header 1
+Elle a accepté sans hésiter, et je lui ai aussitôt confié les commandes du Scarab. Avoir Janne à bord me permettra de me concentrer sur la recherche de nouvelles opportunités commerciales et d'accélérer mes plans pour la construction de la station solaire.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Avec elle à mes côtés, la voie vers la concrétisation de mon projet s'annonce bien plus claire.
