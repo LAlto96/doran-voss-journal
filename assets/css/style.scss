@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Personnalisation du style */
+body {
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.6;
+  background-color: #0d0d0d;
+  color: #f8f8f2;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  color: #ff79c6;
+}
+
+a {
+  color: #8be9fd;
+}
+
+article {
+  max-width: 800px;
+  margin: auto;
+  background-color: #1e1e1e;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #000;
+}
