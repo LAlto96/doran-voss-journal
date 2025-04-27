@@ -39,3 +39,17 @@ Au fil des semaines, j’ai fait grandir ma flotte : d’abord un second cutter 
 Puis la CSA a frappé : attaques de plus en plus fréquentes, nos cutters légers tombaient comme des mouches. La panique a menacé de me paralyser, mais j’ai gardé la tête froide (tant que possible) : j’ai liquidé tous nos cutters pour acheter des vaisseaux miniers blindés, capables de tenir le coup jusqu’à l’arrivée des patrouilles kesseliennes.
 
 Au final, j’ai moins de navires, mais leur résistance nous assure une production continue — le compte à rebours vers notre station solaire continue, plus sûr que jamais.
+
+---
+
+## Entrée #6 : Relocalisation et consolidation**  
+
+La loi implacable de l’offre et de la demande a fini par frapper Kessel : les cours du minerai se sont effondrés sous la pression de notre production. J’ai donc pris une décision rapide — peut-être trop impulsive, diront certains — et avons déménagé l’ensemble de nos opérations minières vers Hipory, où la demande restait forte et les profits à la clé.  
+
+Sur place, j’ai senti ce mélange familier de crainte et d’excitation : peur de repartir à zéro, excitation à l’idée de nouveaux horizons. Mais c’était un risque calculé pour accélérer notre progression vers l’objectif ultime.  
+
+Avec le fruit de ces premières rotations sur Hipory, nous avons enfin pu lancer la construction de la **centrale solaire sur Manda**. Voir les fondations se dessiner sous nos yeux me remplit d’une fierté inédite : voilà le cœur de mon rêve qui prend forme.  
+
+Pour protéger nos mineurs contre les assauts toujours plus fréquents de la CSA, j’ai investi le reste du capital dans **une escadrille de starfighters** : des chasseurs rapides et bien armés, capables d’intercepter toute menace avant qu’elle n’atteigne nos navettes.  
+
+Aujourd’hui, la flotte tourne sans relâche à Hipory, la station se dresse fièrement sur Manda, et nos pilotes de chasse veillent sur nos intérêts. Jamais je n’ai été aussi proche de voir éclore mon projet — et pourtant, l’ambition me pousse déjà à regarder plus loin.
