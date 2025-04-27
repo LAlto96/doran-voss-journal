@@ -42,7 +42,7 @@ Au final, j’ai moins de navires, mais leur résistance nous assure une product
 
 ---
 
-## Entrée #6 : Relocalisation et consolidation**  
+## Entrée #6 : Relocalisation et consolidation  
 
 La loi implacable de l’offre et de la demande a fini par frapper Kessel : les cours du minerai se sont effondrés sous la pression de notre production. J’ai donc pris une décision rapide — peut-être trop impulsive, diront certains — et avons déménagé l’ensemble de nos opérations minières vers Hipory, où la demande restait forte et les profits à la clé.  
 
